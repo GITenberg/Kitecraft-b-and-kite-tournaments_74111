@@ -1,11 +1,16 @@
 _repo: Kitecraft-b-and-kite-tournaments_74111
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74111-h/images/cover.jpg
 creator:
   author:
     agent_name: Miller, Charles M.
     gutenberg_agent_id: '57349'
     url: http://www.gutenberg.org/2009/agents/57349
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74111#Kitecraft-b-and-kite-tournaments
 gutenberg_issued: '2024-07-24'
 gutenberg_type: Text
 identifiers:
